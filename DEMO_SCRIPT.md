@@ -20,10 +20,10 @@ and finishes with the team's results.
 | Order | Speaker | Feature | Target time |
 |---|---|---|---:|
 | Welcome | **[Presenter / facilitator]** | Introduce the team and Express-O | 1 minute |
-| 1 | **[Team member]** | Ingredients and drink recipes | 2–3 minutes |
-| 2 | **[Team member]** | Baked goods | 2–3 minutes |
-| 3 | **[Your name]** | Recording a purchase and updating the customer account | 2–3 minutes |
-| 4 | **[Team member]** | Customer experience or another completed feature | 2–3 minutes |
+| 1 | **Seydou** | Ingredients and drink recipes | 2–3 minutes |
+| 2 | **Anthony** | Baked goods | 2–3 minutes |
+| 3 | **Mike** | Recording a purchase and updating the customer account | 2–3 minutes |
+| 4 | **Anthony** | Customer experience or another completed feature | 2–3 minutes |
 | Close | **[Presenter / facilitator]** | Thank the audience and invite questions | 1 minute |
 
 Adjust the order and remove unused rows to match the team's completed features.
@@ -31,32 +31,32 @@ Keep each member's segment focused on their own contribution.
 
 ## Opening — facilitator
 
-“Hello, everyone. We’re **[team name]**, and this is Express-O, a proof-of-concept
+“Hello, everyone. We’re **Team II**, and this is Express-O, a proof-of-concept
 application for a local coffee shop. It helps the shop manage its menu, customers,
 and purchases. We’ll walk through the shop experience from setting up products
 to recording a sale.”
 
 ## Feature handoffs and talking points
 
-### 1. Ingredients and drink recipes — [team member]
+### 1. Ingredients and drink recipes — Seydou
 
 - Show a drink and its recipe.
 - Explain the shop uses ingredients to make its drinks.
 - If ready, show how ingredient availability affects whether a drink can be sold.
 
-**Handoff:** “Now that we’ve seen how a drink is made, **[next speaker]** will show
+**Handoff:** “Now that we’ve seen how a drink is made, **Anthony** will show
 what customers can choose alongside it.”
 
-### 2. Baked goods — [team member]
+### 2. Baked goods — Anthony
 
 - Show a baked good available for resale.
 - Explain that baked goods come from a vendor and are offered to customers by the
   shop.
 
-**Handoff:** “We have the products ready. **[Your name]** will show how a customer’s
+**Handoff:** “We have the products ready. **Mike** will show how a customer’s
 purchase is recorded.”
 
-### 3. Purchase recording — [your name]
+### 3. Purchase recording — Mike
 
 **Feature:** A drink purchase creates or reuses a customer account, records the
 sale, updates lifetime spending, and deducts the drink's ingredients from stock.
@@ -86,10 +86,10 @@ ingredient amount goes down. The customer's lifetime spending goes up by the
 purchase total. If this customer comes back, the shop can find the existing
 account using the email rather than creating another one.”
 
-**Handoff:** “That’s the purchase flow I worked on. **[Next speaker]** will show
+**Handoff:** “That’s the purchase flow I worked on. **Anthony** will show
 **[their feature]**.”
 
-### 4. [Team member] — [feature]
+### 4. Seydou — [feature]
 
 - Show one completed feature you worked on.
 - Explain the customer or shop benefit in plain language.
