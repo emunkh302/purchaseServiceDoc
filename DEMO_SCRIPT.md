@@ -1,7 +1,5 @@
 # Express-O Demo Script
 
-> Fill in the speaker names and the other team members' features before the
-> presentation. Each team member should present their own work for 2–3 minutes.
 
 ## Preparation checklist
 
@@ -86,15 +84,15 @@ ingredient amount goes down. The customer's lifetime spending goes up by the
 purchase total. If this customer comes back, the shop can find the existing
 account using the email rather than creating another one.”
 
-**Handoff:** “That’s the purchase flow I worked on. **Anthony** will show
-**[their feature]**.”
+**Handoff:** “That’s the purchase flow I worked on. **Anthony and Seydou** will show
+**another completed feature**.”
 
-### 4. Seydou — [feature]
+### 4. Seydou — another completed feature
 
 - Show one completed feature you worked on.
 - Explain the customer or shop benefit in plain language.
 
-**Handoff to close:** “That’s **[feature]**. I’ll pass it back to **[facilitator]**
+**Handoff to close:** “That’s **another completed feature**. I’ll pass it back to **[facilitator]**
 to wrap up.”
 
 ## Closing — facilitator
